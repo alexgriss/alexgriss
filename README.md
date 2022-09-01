@@ -8,4 +8,4 @@ Here is a link to a tuner application: https://github.com/alexgriss/tuner
 
 The tuner application is based on FrequencyRecognizerNode class and works with Aubio: https://github.com/alexgriss/frequency-recognizer
 
-I have passion for interfaces and for good architecture and code solutions, I'm always looking for interesting ideas and think that you need to at least try do to great things even they are hard.
+I have passion for interfaces and for good architecture and code solutions, I'm always looking for interesting ideas and think that you need to at least try to do great things even they are hard.
