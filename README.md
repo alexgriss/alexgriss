@@ -11,7 +11,7 @@ I’m passionate about deep technical solutions, elegant UI/UX, and turning ambi
 - [LinkedIn](https://linkedin.com/in/alexgriss)
 - [Medium](https://medium.com/@alexgriss)
 - [Dev.to](https://dev.to/alexgriss)
-- [email](mailto:dev@alexgriss.tech)
+- [Email](mailto:dev@alexgriss.tech)
 
 # 🌟 Featured Projects:
 
