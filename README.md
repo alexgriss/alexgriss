@@ -7,6 +7,7 @@ I’m passionate about deep technical solutions, elegant UI/UX, and turning ambi
 ## 🌐 Resources:
 
 - [Website](https://alexgriss.tech/en)
+- [Bluesky](https://bsky.app/profile/alexgriss.tech)
 - [Telegram blog](https://t.me/alexgriss)
 - [LinkedIn](https://linkedin.com/in/alexgriss)
 - [Medium](https://medium.com/@alexgriss)
