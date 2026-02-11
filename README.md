@@ -17,7 +17,7 @@ I’m passionate about deep technical solutions, elegant UI/UX, and turning ambi
 # 🌟 Featured Projects:
 
 - [Arivi.ru](https://arivi.ru) — short-term rental platform (Airbnb-like) built from scratch on **Next.js + React + TypeScript**.  
-- [Web Audio Lab](https://webaudiolab.com) — interactive learning platform for **Web Audio API** and sound synthesis.  
+- [Web Audio Studio](https://webaudio.studio) — interactive learning platform for **Web Audio API** and sound synthesis.  
 - [Web Audio API Book (ru translation)](https://alexgriss.tech/web-audio-api-book) — official Russian translation of Boris Smus’s *Web Audio API* (O’Reilly).  
 
 # 💻 Tech Stack:
