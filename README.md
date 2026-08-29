@@ -1,6 +1,6 @@
 # 💫 About me:
 
-👋 Hi, I’m Aleksandr Grigorenko — a frontend architect and product-minded engineer.
+👋 Hi, I’m Alex Griss — a frontend architect and product-minded engineer.
 With 13+ years of experience, I design and build scalable interfaces using React, Next.js, and TypeScript.
 I’m passionate about deep technical solutions, elegant UI/UX, and turning ambitious ideas into reality.
 
