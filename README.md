@@ -1,8 +1,16 @@
 # 💫 About me:
 
-👋 Hi, I’m Alex Griss — a frontend architect and product-minded engineer.
-With 13+ years of experience, I design and build scalable interfaces using React, Next.js, and TypeScript.
-I’m passionate about deep technical solutions, elegant UI/UX, and turning ambitious ideas into reality.
+👋 Hi, I'm Alex Griss!
+
+I'm a frontend architect, product-focused engineer and creator of Web Audio Studio, a browser-based developer tool for visualizing, inspecting and debugging Web Audio API graphs in real time. It lets engineers write real Web Audio code and see the runtime graph, signal flow and parameter modulation directly in the browser.
+
+Web Audio Studio combines several areas I am especially interested in: developer tools, runtime instrumentation, graph visualization and interactive systems. It has been used in Web Audio conference talks, by educators teaching the API and featured by the xyflow (React Flow) team. I am also the official Russian translator of Boris Smus's O'Reilly book "Web Audio API: Advanced Sound for Games and Interactive Apps".
+
+I have 13+ years of experience building and launching web products across fintech, banking, real estate and travel. I currently work at Exness in Limassol, focusing on frontend architecture, React, Next.js and TypeScript.
+
+Over the years, I have helped build products ranging from enterprise banking systems and investment platforms to real estate marketplaces and travel applications. These include a banking platform processing millions of transactions, a real estate product used by 2M+ people monthly, a robo-advisor serving 50,000+ clients and a travel platform used by thousands of corporate travelers.
+
+I am passionate about product engineering: turning ideas into real products, making strong technical decisions, shaping the user experience and taking things from concept to production.
 
 ## 🌐 Resources:
 
@@ -10,14 +18,11 @@ I’m passionate about deep technical solutions, elegant UI/UX, and turning ambi
 - [Bluesky](https://bsky.app/profile/alexgriss.tech)
 - [Telegram blog](https://t.me/alexgriss)
 - [LinkedIn](https://linkedin.com/in/alexgriss)
-- [Medium](https://medium.com/@alexgriss)
-- [Dev.to](https://dev.to/alexgriss)
 - [Email](mailto:dev@alexgriss.tech)
 
 # 🌟 Featured Projects:
 
-- [Arivi.ru](https://arivi.ru) — short-term rental platform (Airbnb-like) built from scratch on **Next.js + React + TypeScript**.  
-- [Web Audio Studio](https://webaudio.studio) — interactive learning platform for **Web Audio API** and sound synthesis.  
+- [Web Audio Studio](https://webaudio.studio) — interactive Web Audio API visualizer & playground.  
 - [Web Audio API Book (ru translation)](https://alexgriss.tech/web-audio-api-book) — official Russian translation of Boris Smus’s *Web Audio API* (O’Reilly).  
 
 # 💻 Tech Stack:
